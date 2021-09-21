@@ -1,0 +1,17 @@
+body {
+    background-color: darkkhaki;
+    font: 15px/1.5 Helvetica, Sans-Serif;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: olive;
+    border-width: 7px;
+    width: 5%;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+}
